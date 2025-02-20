@@ -8,7 +8,7 @@
 ### 1. 安装Sakura_Launcher_GUI
 下载链接：[https://github.com/PiDanShouRouZhouXD/Sakura_Launcher_GUI/releases] 以及
 
-下载相关的Sakura模型
+下载相关的Sakura模型并启动
 
 ### 2. 安装依赖
 确保已安装以下软件和库：
@@ -52,4 +52,4 @@ Url=http://127.0.0.1:4000/translate
 - [XunityAutoTranslator-Gemini-API](https://github.com/0001lizhubo/XunityAutoTranslator-Gemini-API)   和  [XUnity.AutoTranslator-deepseek](https://github.com/0001lizhubo/XUnity.AutoTranslator-deepseek) 
 ---
 
-通过以上步骤，您可以轻松实现Unity游戏中日文文本的自动翻译。如有问题，请参考相关文档或联系开发者。
+通过以上步骤，您可以轻松实现Unity游戏中日文文本的自动翻译。如有问题，请参考相关文档。
