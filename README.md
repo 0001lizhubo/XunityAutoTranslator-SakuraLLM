@@ -6,7 +6,8 @@
 ## 准备工作
 
 ### 1. 安装Sakura_Launcher_GUI
-下载链接：[https://github.com/PiDanShouRouZhouXD/Sakura_Launcher_GUI/releases]
+下载链接：[https://github.com/PiDanShouRouZhouXD/Sakura_Launcher_GUI/releases] 以及
+
 下载相关的Sakura模型
 
 ### 2. 安装依赖
@@ -19,13 +20,8 @@
 pip install Flask gevent openai
 ```
 
-### 3. 配置API
-克隆本项目后，修改deepseekv3.py中的`api_key`配置部分：
-```python
-openai_client = OpenAI(api_key="sakura", base_url= Base_url)
-```
 
-### 4. 自定义API配置
+### 3. 自定义API配置
 如果使用其他模型，请修改以下配置：
 ```python
 # API配置
